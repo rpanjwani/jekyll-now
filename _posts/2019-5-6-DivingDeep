@@ -1,0 +1,12 @@
+---
+layout: post
+title: Diving Deep into Deep Learning
+---
+
+Over the years, I have flirted with machine learning starting with the original Coursera course offered by Dr. Andrew Ng back in the day. I quit it halfway through as I found it to be too math heavy. Although I was fascinated by the potential after reading the original essay on ![Singularity](https://frc.ri.cmu.edu/~hpm/book98/com.ch1/vinge.singularity.html) by Vernor Vinge, I was honestly too lazy and too comfortable as a developer to fully go into the AI field.
+
+Next, in 2014 I enrolled into my local university's masters program starting with the Data Mining offering, but the initial course was too disappointing as it focused mostly on Support Vector Machines and not neural networks. Another disappointing factor was that for the most part we just learned theory but hardly were introduced to the tools to actually put it into practice.
+
+Finally, here we are in the May of 2019, and I have decided to follow this through as machine learning is mainstream now and there are several resources available to get started on your own. I will detail everything I learn here as motivation to keep me going. I will eventually enable some analytics and commenting to see if I get any visitors!
+
+
